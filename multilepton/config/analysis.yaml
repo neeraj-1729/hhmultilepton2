@@ -117,11 +117,16 @@ datasets:
           - hh_ggf_htt_htt_kl5_kt1_powheg
           - hh_ggf_hvv_hvv_2lplus_kl0_kt1_powheg
           - hh_ggf_hvv_hvv_2lplus_kl1_kt1_powheg
+          - hh_ggf_hvv_hvv_2lplus_kl2p45_kt1_powheg
           - hh_ggf_hvv_hvv_2lplus_kl5_kt1_powheg
           - hh_ggf_hww_hzz_3l_kl0_kt1_powheg
           - hh_ggf_hww_hzz_3l_kl1_kt1_powheg
           - hh_ggf_hww_hzz_3l_kl2p45_kt1_powheg
           - hh_ggf_hww_hzz_3l_kl5_kt1_powheg
+          - hh_ggf_hww_hzz_4lplus_kl0_kt1_powheg
+          - hh_ggf_hww_hzz_4lplus_kl1_kt1_powheg
+          - hh_ggf_hww_hzz_4lplus_kl2p45_kt1_powheg
+          - hh_ggf_hww_hzz_4lplus_kl5_kt1_powheg
       vbf:
         tag: ["vbf", "nonresonant_signal", "signal"]
         color: "#e76300" # dark_orange
@@ -165,6 +170,7 @@ datasets:
           - hh_vbf_hvv_hvv_2lplus_kv1_k2v1_kl1_madgraph
           - hh_vbf_hvv_hvv_2lplus_kv1_k2v0_kl1_madgraph
           - hh_vbf_hvv_hvv_2lplus_kv1p74_k2v1p37_madgraph
+          - hh_vbf_hvv_hvv_2lplus_kv2p12_k2v3p87_klm5p96_madgraph
           - hh_vbf_hvv_hvv_2lplus_kvm0p012_k2v0p03_madgraph
           - hh_vbf_hvv_hvv_2lplus_kvm0p758_k2v1p44_madgraph
           - hh_vbf_hvv_hvv_2lplus_kvm0p962_k2v0p959_madgraph
