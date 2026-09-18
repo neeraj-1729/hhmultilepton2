@@ -195,6 +195,7 @@ datasets:
           - hh_vbf_hww_hzz_3l_kvm1p21_k2v1p94_klm0p94_madgraph
           - hh_vbf_hww_hzz_3l_kvm1p6_k2v2p72_klm1p36_madgraph
           - hh_vbf_hww_hzz_3l_kvm1p83_k2v3p57_klm3p39_madgraph
+          - hh_vbf_hww_hzz_4lplus_kv1_k2v1_kl1_madgraph
 
   background:
     ttbar:
